@@ -1,0 +1,19 @@
+DOCUMENT Q&A DEMO — SAMPLE ORGANIZATION GUIDE
+
+About the organization
+Northstar Learning Hub is a fictional community learning center founded in 2021. Its mission is to make practical technology education accessible to students and career changers.
+
+Programs
+The center offers three main programs: Python Foundations, Data Analytics Essentials, and Introduction to Generative AI. Python Foundations runs for six weeks. Data Analytics Essentials runs for eight weeks. Introduction to Generative AI runs for four weeks.
+
+Schedule and location
+Classes are held Monday through Friday from 10:00 AM to 4:00 PM at 24 Lakeview Road, Hyderabad. Saturday sessions are offered online by appointment. The center is closed on Sundays.
+
+Enrollment
+Applicants should complete the online enrollment form and provide a valid email address. Seats are confirmed after the learner receives an enrollment confirmation email. The sample guide does not specify tuition fees.
+
+Support
+For course-related questions, learners can contact help@northstar.example. Support replies are usually sent within two business days.
+
+Completion
+Learners who attend at least 80 percent of sessions and complete the final practical assignment receive a course completion certificate.

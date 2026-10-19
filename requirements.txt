@@ -8,3 +8,9 @@ python-dotenv
 pydantic
 
 streamlit
+
+streamlit>=1.40.0
+
+langchain-text-splitters
+faiss-cpu
+pypdf
