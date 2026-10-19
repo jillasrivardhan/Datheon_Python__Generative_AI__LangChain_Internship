@@ -2,4 +2,7 @@ langchain
 langchain-core
 langchain-community
 langchain-ollama
+langchain-google-genai
 
+python-dotenv
+pydantic
